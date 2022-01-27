@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\memme\Desktop\P225\Task\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
